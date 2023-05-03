@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <div class="dashboard">
+      <div className="dashboard">
         <h1>Simple React App served by NGINX and Docker</h1>
       </div>
       <Footer />
